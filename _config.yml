@@ -1,0 +1,8 @@
+title: Daniel Rueda Jiménez
+description: iOS Developer / FOSS User / Samurai Coder
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
