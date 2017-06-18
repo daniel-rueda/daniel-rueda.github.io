@@ -1,8 +1,8 @@
 ## Skills
 + **Programming paradigms:** *Object Oriented Programming, Protocol Oriented Programming. Functional programming (Learning)*
-+ **Programming languages:** *ObjectiveC, Swift 2, Swift 3 (in transition)*
++ **Programming languages:** *ObjectiveC, Swift 2, Swift 3*
 + **Design patterns:** *Builder, Command, Delegate, Façade, Factory, KVO/Listener/Notification, MVC, MVVM, Singleton*
-+ **Languages:** *English (Intermediate), Spanish (Native)*
++ **Languages:** *English, Spanish (Native)*
 
 
 ## Education
@@ -27,20 +27,20 @@
 * [**ACP Alusign**](http://www.alusign.mx/).
 * [**ACP Alucomex**](http://www.alucomex.com/).
 * [**Supermóvil**](https://servicios.santander.com.mx/supermovil/principal/index.html).
-* [**Clicab**](http://a.drj.mx/CliCab).
-* [**HOC**](http://a.drj.mx/HOC_iPhone).
+* [**Clicab**](http://clicab.com).
+* [**HOC**](http://www.hoc-digital.com).
 * [**Pocket Safety**](http://www.pocketsafety.ca).
 * [**Multiva Touch**](http://www.bancomultiva.com.mx/wps/wcm/connect/Micrositio/home/web/mov_multivat.html).
 * [**Saber Fiscal**](http://www.pwc.com/mx/es/aplicaciones-moviles/index.jhtml).
-* [**HOC-FastTrack**](http://a.drj.mx/HOC_FastTrack).
-* [**HOC-Digital**](http://a.drj.mx/HOC_Digital).
+* [**HOC-FastTrack**](http://www.hoc-digital.com).
+* [**HOC-Digital**](http://www.hoc-digital.com).
 * [**iRoadYellowstone**](http://iroadyellowstone.com/).
 * [**RETiO**](http://ret.io/app).
 * [**Uaio**](http://uaio.mx/).
 
 
 ## Contact
-+ [Twitter](http://twitter.com/Xtr3m0)
++ [Twitter](https://twitter.com/d_rueda)
 + [LinkedIn](http://mx.linkedin.com/in/drueda)
 
 ___
