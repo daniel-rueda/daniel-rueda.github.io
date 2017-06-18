@@ -42,6 +42,3 @@
 ## Contact
 + [Twitter](https://twitter.com/d_rueda)
 + [LinkedIn](http://mx.linkedin.com/in/drueda)
-
-___
-> The life is a moment... Enjoy it!

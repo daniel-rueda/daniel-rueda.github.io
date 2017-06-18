@@ -1,8 +1,16 @@
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+
 title: Daniel Rueda Jiménez
 description: iOS Developer / FOSS User / Samurai Coder
-google_analytics: 
-show_downloads: true
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-dinky
+
+twitter:
+  username: d_rueda
 
 gems:
   - jekyll-mentions
