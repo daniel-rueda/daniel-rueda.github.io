@@ -3,7 +3,17 @@ layout: post
 title: About protocol extensions
 ---
 
+### TLDR;
+> IF the inferred type of a variable is the protocol:  
+— AND the method is defined in the original protocol  
+— — THEN the runtime type’s implementation is called, irrespective of whether there is a default implementation in the extension.  
+— AND the method is not defined in the original protocol,  
+— — THEN the default implementation is called.  
+ELSE IF the inferred type of the variable is the type  
+— THEN the type’s implementation is called.
+
 ## What?
+
 For my current project I defined a protocol (with a default implementation) to represent a network request
 ```swift
 protocol NetworkRequest {
@@ -50,15 +60,6 @@ Xcode is able to compile and build the app but when the request manager tries to
 ## Why?
 Because Swift erases the information about the concrete type when is being pass as parameter to the request manager and the default implementation is used instead.  
 I was going to write how Swift's method dispatch works but I remembered I had read about it.
-
-### TLDR;
-> IF the inferred type of a variable is the protocol:  
-— AND the method is defined in the original protocol  
-— — THEN the runtime type’s implementation is called, irrespective of whether there is a default implementation in the extension.  
-— AND the method is not defined in the original protocol,  
-— — THEN the default implementation is called.  
-ELSE IF the inferred type of the variable is the type  
-— THEN the type’s implementation is called.
 
 ### LINKS:  
 - [The Ghost of Swift Bugs Future](https://nomothetis.svbtle.com/the-ghost-of-swift-bugs-future)  
